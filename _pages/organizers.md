@@ -19,6 +19,7 @@ Foundations and Trends in Information Retrieval, of which he is now a member of 
 </p>
 
 </section>
+<section markdown="1">
 
 ![Alejandro Moreo](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4RIy5E4AAAAJ&citpid=7){: .profile-pic}
 ### Alejandro Moreo
@@ -30,7 +31,6 @@ Tenured Researcher at the Institute for the Science and Technologies of Informat
 
 </section>
 
-<section markdown="1">
 
 
 
