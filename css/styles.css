@@ -1,0 +1,21 @@
+.profile-pic{
+  float: left;
+  margin: 0 1em 1em 0;
+  border-radius: 50%;
+  border: 1px solid #a7a7a7;
+  width: 80px;
+}
+
+.textblock {
+    margin-left: 99px;
+}
+
+h3 + h4 {
+    margin-top: -1em;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+.organizers {
+    margin: 4em 0;
+}

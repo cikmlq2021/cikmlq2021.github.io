@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: LQ2021
+email: fabrizio.sebastiani@isti.cnr.it
+description: > # this means to ignore newlines until "baseurl:"
+  Learning to Quantify: Methods and Applications
+description2: Workshop at CIKM 2021
+url: cikmlq2021.github.io
+baseurl: ""
+twitter_username: CIKM2021
+github_username:  pglez82
+
+include: ["_pages"]
+
+# Build settings
+markdown: kramdown
+
