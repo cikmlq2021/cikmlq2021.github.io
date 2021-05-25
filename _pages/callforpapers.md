@@ -15,8 +15,10 @@ While LQ may in principle be solved by classifying each data item in the sample 
 
 The goal of this workshop is to bring together all researchers interested in methods, algorithms, evaluation measures, and methodologies for LQ, as well as practitioners interested in their practical application to managing large quantities of data.
 
+We seek original, unpublished papers on topics of relevance to LQ; also papers currently under submission at other workshops / conferences / journals are welcome, provided this double submission does not violate the rules of these workshops / conferences / journals.
 
-We seek original, unpublished papers on any of the following topics, which will form the main themes of the workshop:
+We seek papers on any of the following topics, which will form the main themes of the workshop:
+
 - Binary, multiclass, and ordinal LQ
 - Supervised algorithms for LQ
 - Semi-supervised / transductive LQ
