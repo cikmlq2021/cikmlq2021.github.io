@@ -10,7 +10,8 @@ title: LQ 2021
 email: LQ2021Chairs@isti.cnr.it
 description: > # this means to ignore newlines until "baseurl:"
   Learning to Quantify: Methods and Applications (LQ 2021)
-description2: Workshop at CIKM 2021
+description2: Colocated with the </br> <a class="nocolorlink" href="https://www.cikm2021.org/">30th ACM International Conference on Information and Knowledge Management</a> (CIKM 2021)
+description3: First International Workshop on
 url: cikmlq2021.github.io
 baseurl: ""
 twitter_username: 

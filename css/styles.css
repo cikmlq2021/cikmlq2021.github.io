@@ -19,3 +19,18 @@ h3 + h4 {
 .organizers {
     margin: 4em 0;
 }
+
+.nocolorlink{
+    color:#F2E5D7;
+    text-decoration: underline;
+}
+
+.nocolorlink:hover{
+    color:#F2E5D7;
+    text-decoration: underline;
+}
+
+.nocolorlink:visited{
+    color:#F2E5D7;
+    text-decoration: underline;
+}
