@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**LQ2021 is a workshop in the CIKM 2021 conference. As the CIKM 2021 will be a fully virtual conference, the LQ2021 workshop will also be held online.**
+**LQ 2021 is a workshop in the CIKM 2021 conference. As the CIKM 2021 will be a fully virtual conference, the LQ 2021 workshop will also be held online.**
 
 Learning to Quantify (LQ - also known as “quantification“, or “supervised prevalence estimation“, or “class prior estimation“), is the task of training class prevalence estimators via supervised learning.  In other words, the task of these trained models is to estimate, given an unlabelled sample of data items and a set of classes, the prevalence (i.e., relative frequency) of each such class in the sample. 
 
