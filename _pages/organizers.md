@@ -8,7 +8,6 @@ title: Organizers
 ![Juan José del Coz](https://www.aic.uniovi.es/juanjo/wp-content/uploads/sites/9/2020/02/fotoperfil-2.jpg){: .profile-pic}
 ### Juan José del Coz
 #### Artificial Intelligence Center, University of Oviedo, Spain
-[juanjo@uniovi.es](mailto:juanjo@uniovi.es)
 </section>
 
 <section markdown="1"  class="organizers">
@@ -16,7 +15,6 @@ title: Organizers
 ![Pablo González](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=09PnhhoAAAAJ&citpid=1){: .profile-pic}
 ### Pablo González
 #### Artificial Intelligence Center, University of Oviedo, Spain
-[gonzalezgpablo@uniovi.es](mailto:gonzalezgpablo@uniovi.es)
 </section>
 
 <section markdown="1"  class="organizers">
@@ -24,7 +22,6 @@ title: Organizers
 ![Alejandro Moreo](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4RIy5E4AAAAJ&citpid=7){: .profile-pic}
 ### Alejandro Moreo
 #### Istituto di Scienza e Tecnologie dell’Informazione, Consiglio Nazionale delle Ricerche, Pisa, Italy
-[alejandro.moreo@isti.cnr.it](mailto:alejandro.moreo@isti.cnr.it)
 </section>
 
 <section markdown="1"  class="organizers">
@@ -32,7 +29,6 @@ title: Organizers
 ![Fabrizio Sebastiani](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WZBcZV4AAAAJ&citpid=33){: .profile-pic}
 ### Fabrizio Sebastiani
 #### Istituto di Scienza e Tecnologie dell’Informazione, Consiglio Nazionale delle Ricerche, Pisa, Italy
-[fabrizio.sebastiani@isti.cnr.it](mailto:fabrizio.sebastiani@isti.cnr.it)
 </section>
 
 
