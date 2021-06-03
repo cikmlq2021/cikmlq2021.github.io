@@ -45,3 +45,4 @@ title: Organizers
 - André G. Maletzke, Universidade Estadual do Oeste do Paraná, BR
 - Marco Saerens, Catholic University of Louvain, BE
 - Dirk Tasche, Swiss Financial Market Supervisory Authority, CH
+- George Forman, Amazon Research, US
