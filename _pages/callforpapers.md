@@ -36,8 +36,8 @@ and other topics of relevance to LQ.
 ### Important dates 
 *all 23:59 AoE*
 
-- **Paper submission deadline**: July 30, 2021    
-- **A/R notification deadline**: September 15, 2021    
+- **Paper submission deadline**: ~~July 30, 2021~~  Deathline extension: August 31,  2021   
+- **A/R notification deadline**: ~~September 15, 2021~~ September 21, 2021    
 - **Final copy submission deadline**: October 10, 2021  
 
 ### Submission
