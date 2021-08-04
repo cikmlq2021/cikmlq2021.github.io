@@ -5,7 +5,7 @@ permalink: /callforpapers/
 ---
 
 
-**Important update: the paper submission deadline has been extended until August 31, 2021**
+<mark>**Important update: the paper submission deadline has been extended until August 31, 2021**</mark>
 
 Learning to Quantify (LQ - also known as “quantification“, or “supervised prevalence estimation“, or “class prior estimation“), is the task of training class prevalence estimators via supervised learning.  In other words, the task of these trained models is to estimate, given an unlabelled sample of data items and a set of classes, the prevalence (i.e., relative frequency) of each such class in the sample. 
 
