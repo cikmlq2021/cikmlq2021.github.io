@@ -5,8 +5,6 @@ permalink: /callforpapers/
 ---
 
 
-**<mark>Important update: the paper submission deadline has been extended until August 31, 2021</mark>**
-
 Learning to Quantify (LQ - also known as “quantification“, or “supervised prevalence estimation“, or “class prior estimation“), is the task of training class prevalence estimators via supervised learning.  In other words, the task of these trained models is to estimate, given an unlabelled sample of data items and a set of classes, the prevalence (i.e., relative frequency) of each such class in the sample. 
 
 LQ is interesting in all applications of classification in which the final goal is not determining which class (or classes) individual unlabelled data items belong to, but estimating the percentages of data items that belong to the classes of interest, i.e., estimating the distribution of the unlabelled data items across the classes. Example disciplines whose interest in labelling data items is at the aggregate level (rather than at the individual level), are the social sciences, political science, market research, ecological modelling, and epidemiology.  
@@ -36,7 +34,7 @@ and other topics of relevance to LQ.
 ### Important dates 
 *all 23:59 AoE*
 
-- **Paper submission deadline**: ~~July 30, 2021~~  Deadline extension: August 31,  2021   
+- **Paper submission deadline**: ~~July 30, 2021~~  Deadline extension: ~~August 31, 2021~~   
 - **A/R notification deadline**: ~~September 15, 2021~~ September 21, 2021    
 - **Final copy submission deadline**: October 10, 2021  
 
