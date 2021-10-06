@@ -15,7 +15,6 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-zmc0{background-color:#D0E0E3;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-02pm{background-color:#FFF2CC;text-align:center;vertical-align:top}
 .tg .tg-za92{background-color:#FFF2CC;text-align:center;vertical-align:middle}
 .tg .tg-w80k{background-color:#B4A7D6;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
@@ -138,7 +137,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">09:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">09:30</span></td>
     <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">A Closer Look at Evaluation Measures for Ordinal Quantification, by Tetsuya Sakai (Waseda University, JP)</span></td>
-    <td class="tg-02pm" rowspan="4">&lt;-- Chair: Alejandro Moreo</td>
+    <td class="tg-za92" rowspan="4">&lt;-- Chair: Alejandro Moreo</td>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:normal">23:30</span></td>
@@ -253,7 +252,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">07:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">08:00</span></td>
     <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">QuaPy: A Publicly Available Python-Based Software Library for Quantification, by Alejandro Moreo, Andrea Esuli, and Fabrizio Sebastiani (National Council of Research, IT)</span></td>
-    <td class="tg-02pm" rowspan="2">&lt;-- Chair: Pablo Gonzalez</td>
+    <td class="tg-za92" rowspan="2">&lt;-- Chair: Pablo Gonzalez</td>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:normal">22:00</span></td>
@@ -294,7 +293,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">09:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">10:00</span></td>
     <td class="tg-pju0"><span style="font-weight:normal;background-color:#B6D7A8">Invited talk # 2: Gary King (Harvard University, US): An Improved Method of Automated Nonparametric Content Analysis for Social Science</span></td>
-    <td class="tg-02pm" rowspan="2">&lt;-- Chair: Fabrizio Sebastiani</td>
+    <td class="tg-za92" rowspan="2">&lt;-- Chair: Fabrizio Sebastiani</td>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:normal">00:00</span></td>
