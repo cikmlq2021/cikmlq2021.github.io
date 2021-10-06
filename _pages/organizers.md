@@ -33,7 +33,7 @@ title: Organizers
 
 
 
-# Program Committee (to be finalized)
+# Program Committee
 - Rocı́o Alaı́z-Rodrı́guez, University of León, ES
 - Gustavo Batista, University of New South Wales, AU
 - Andrea Esuli, Consiglio Nazionale delle Ricerche, IT
