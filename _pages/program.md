@@ -41,12 +41,12 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-zmc0" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Gold Coast)</span></th>
-    <th class="tg-zmc0" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Tokyo)(-1h)</span></th>
-    <th class="tg-zmc0" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Rome)(-9h)</span></th>
-    <th class="tg-zmc0" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Sao Paulo)(-13h)</span></th>
-    <th class="tg-zmc0" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Boston)(-14h)</span></th>
-    <th class="tg-zmc0"><span style="font-weight:bold;background-color:#D0E0E3">Monday, November 1</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Gold Coast)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Tokyo)(-1h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Rome)(-9h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Sao Paulo)(-13h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Boston)(-14h)</span></th>
+    <th class="tg-kzdm"><span style="font-weight:bold;background-color:#D0E0E3">Monday, November 1</span></th>
   </tr>
 </thead>
 <tbody>
