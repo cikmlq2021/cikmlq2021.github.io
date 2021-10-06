@@ -15,13 +15,13 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-vxga{background-color:#ffffff;text-align:center;vertical-align:middle}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-kzdm{background-color:#D0E0E3;font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-kzdm{background-color:#F2E5D7;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-7zrl{text-align:left;vertical-align:bottom}
 .tg .tg-oo9c{background-color:#ffffff;text-align:center;vertical-align:bottom}
-.tg .tg-6cgb{background-color:#D0E0E3;text-align:center;vertical-align:bottom}
+.tg .tg-6cgb{background-color:#F2E5D7;text-align:center;vertical-align:bottom}
 .tg .tg-8d8j{text-align:center;vertical-align:bottom}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-lqqp{background-color:#D0E0E3;text-align:center;vertical-align:middle}
+.tg .tg-lqqp{background-color:#F2E5D7;text-align:center;vertical-align:middle}
 </style>
 
 
@@ -41,12 +41,12 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Gold Coast)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Tokyo)(-1h)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Rome)(-9h)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Sao Paulo)(-13h)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Boston)(-14h)</span></th>
-    <th class="tg-kzdm"><span style="font-weight:bold;background-color:#D0E0E3">Monday, November 1</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Gold Coast)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Tokyo)(-1h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Rome)(-9h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Sao Paulo)(-13h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Boston)(-14h)</span></th>
+    <th class="tg-kzdm"><span style="font-weight:bold;background-color:#F2E5D7">Monday, November 1</span></th>
   </tr>
 </thead>
 <tbody>
@@ -67,30 +67,30 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
     <td class="tg-cly1"></td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">20:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">20:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">07:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">07:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">Connect to Zoom + test A/V setup</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">20:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">20:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">07:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">07:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">Connect to Zoom + test A/V setup</span></td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">20:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">20:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">07:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">07:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">Organizers' Introduction</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">20:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">20:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">07:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">07:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">Organizers' Introduction</span></td>
   </tr>
   <tr>
     <td class="tg-nrix">21:30</td>
@@ -142,29 +142,29 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
     <td class="tg-nrix">08:30</td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">22:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">22:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">13:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">13:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">09:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">09:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">22:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">22:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">13:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">13:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">09:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">09:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:45</span></td>
     <td class="tg-lqqp" rowspan="2">Coffee break</td>
   </tr>
   <tr>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">22:45</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">23:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">21:45</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">22:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">13:45</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">14:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">09:45</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">10:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">08:45</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">09:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">22:45</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">23:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">21:45</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">22:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">13:45</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">14:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">09:45</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">10:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">08:45</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">09:00</span></td>
   </tr>
   <tr>
     <td class="tg-nrix">23:00</td>
@@ -267,17 +267,17 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
     <td class="tg-nrix">11:00</td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">01:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">01:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">00:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">00:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">16:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">16:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">11:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">11:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">End of Day 1</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">01:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">01:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">00:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">00:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">16:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">16:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">11:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">11:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">End of Day 1</span></td>
   </tr>
 </tbody>
 </table>
@@ -299,12 +299,12 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Gold Coast)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Tokyo)(-1h)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Rome)(-9h)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Sao Paulo)(-13h)</span></th>
-    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#D0E0E3">(Boston)(-14h)</span></th>
-    <th class="tg-kzdm"><span style="font-weight:bold;background-color:#D0E0E3">Friday, November 5</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Gold Coast)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Tokyo)(-1h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Rome)(-9h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Sao Paulo)(-13h)</span></th>
+    <th class="tg-kzdm" colspan="2"><span style="font-weight:bold;background-color:#F2E5D7">(Boston)(-14h)</span></th>
+    <th class="tg-kzdm"><span style="font-weight:bold;background-color:#F2E5D7">Friday, November 5</span></th>
   </tr>
 </thead>
 <tbody>
@@ -325,30 +325,30 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
     <td class="tg-7zrl"></td>
   </tr>
   <tr>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">21:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">21:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">20:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">20:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">12:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">12:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">08:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">08:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">07:00</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">07:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">Connect to Zoom + test A/V setup</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">21:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">21:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">20:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">20:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">12:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">12:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">08:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">08:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">07:00</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">07:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">Connect to Zoom + test A/V setup</span></td>
   </tr>
   <tr>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">21:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">21:30</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">20:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">20:30</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">12:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">12:30</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">08:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">08:30</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">07:15</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">07:30</span></td>
-    <td class="tg-6cgb"><span style="background-color:#D0E0E3">Organizers' Introduction</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">21:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">21:30</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">20:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">20:30</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">12:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">12:30</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">08:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">08:30</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">07:15</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">07:30</span></td>
+    <td class="tg-6cgb"><span style="background-color:#F2E5D7">Organizers' Introduction</span></td>
   </tr>
   <tr>
     <td class="tg-8d8j">21:30</td>
@@ -401,29 +401,29 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
     <td class="tg-nrix">08:30</td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">22:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">22:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">13:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">13:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">09:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">09:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:30</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">22:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">22:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">13:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">13:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">09:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">09:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:30</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:45</span></td>
     <td class="tg-lqqp" rowspan="2">Coffee break</td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">22:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">23:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">21:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">22:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">13:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">14:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">09:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">10:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">08:45</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">09:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">22:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">23:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">21:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">22:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">13:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">14:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">09:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">10:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">08:45</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">09:00</span></td>
   </tr>
   <tr>
     <td class="tg-nrix">23:00</td>
@@ -524,17 +524,17 @@ The workshop will be held the days 1st and 5th of November, 2021. Here you can c
     <td class="tg-nrix">11:00</td>
   </tr>
   <tr>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">01:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">01:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">00:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">00:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">16:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">16:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">12:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">11:00</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">11:15</span></td>
-    <td class="tg-lqqp"><span style="background-color:#D0E0E3">End of Day 2</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">01:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">01:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">00:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">00:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">16:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">16:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">12:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">11:00</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">11:15</span></td>
+    <td class="tg-lqqp"><span style="background-color:#F2E5D7">End of Day 2</span></td>
   </tr>
 </tbody>
 </table>
