@@ -108,7 +108,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">09:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">07:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">08:30</span></td>
-    <td class="tg-pju0"><span style="font-weight:normal;background-color:#B6D7A8">Invited talk # 1: Masashi Sugiyama (University of Tokyo, JP): Mixture proportion estimation in weakly supervised learning</span></td>
+    <td class="tg-pju0"><span style="font-weight:normal;background-color:#B6D7A8">Invited talk # 1: Masashi Sugiyama (RIKEN and the University of Tokyo, JP): Mixture proportion estimation in weakly supervised learning</span></td>
     <td class="tg-za92"><span style="font-weight:normal;background-color:#FFF2CC">&lt;-- Chair: Juan Jose del Coz</span></td>
   </tr>
   <tr>
