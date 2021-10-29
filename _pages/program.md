@@ -292,7 +292,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">11:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">09:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">10:00</span></td>
-    <td class="tg-pju0"><span style="font-weight:normal;background-color:#B6D7A8">Keynote talk # 2: Gary King (with Connor Jerzak and Anton Strezhev) (Harvard University, US) : An Improved Method of Automated Nonparametric Content Analysis for Social Science</span></td>
+    <td class="tg-pju0"><span style="font-weight:normal;background-color:#B6D7A8">Keynote talk # 2: Gary King (with Connor Jerzak and Anton Strezhnev) (Harvard University, US) : An Improved Method of Automated Nonparametric Content Analysis for Social Science</span></td>
     <td class="tg-za92" rowspan="2">&lt;-- Chair: Fabrizio Sebastiani</td>
   </tr>
   <tr>
