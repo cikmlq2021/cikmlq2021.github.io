@@ -14,13 +14,9 @@ The goal of this workshop is to bring together all researchers interested in met
 
 <sub>LeQua 2022 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers’ opinions do not necessarily reflect those of the European Commission.</sub>
 
- <div class="row">
-  <div class="column">
+ <div style="vertical-align: middle">
     <img src="images/ai4media.png" alt="ai4media logo" width="100"/>
-  </div>
-  <div class="column">
     <img src="images/SoBigData.png" alt="sobigdata logo " width="100"/>
-  </div>
 </div> 
 
 
