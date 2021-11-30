@@ -36,7 +36,7 @@ and other topics of relevance to LQ.
 
 - **Paper submission deadline**: ~~July 30, 2021~~  Deadline extension: ~~August 31, 2021~~   
 - **A/R notification deadline**: ~~September 15, 2021~~ September 21, 2021    
-- **Final copy submission deadline**: October 10, 2021  
+- **Final copy submission deadline**: ~~October 10, 2021~~
 
 ### Submission
 
@@ -45,6 +45,3 @@ Submit your paper to LQ 2021 using the [EasyChair](https://easychair.org/confere
 Papers should be formatted according to the same format as for the main CIKM 2021 conference (see [https://www.cikm2021.org/cfp/full-papers](https://www.cikm2021.org/cfp/full-papers)), and should be up to 9 pages + references in length; however, this is just the upper bound, and contributions of any length up to this bound will be considered.
 
 The workshop will be held entirely online. At least one author of each accepted paper must register to present “live” the work as scheduled in the workshop program. The proceedings of the workshop will be published, together with the proceedings of other CIKM 2021 workshops, in the CEUR series of free open-access proceedings for scientific conferences and workshops (http://ceur-ws.org/). However, for each accepted paper, it will be left at the discretion of the authors to decide whether to contribute their paper or not to the proceedings.
-
-
-
