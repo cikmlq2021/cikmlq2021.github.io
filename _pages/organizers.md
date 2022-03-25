@@ -2,6 +2,7 @@
 layout: page
 permalink: /organizers/
 title: Organizers
+order: 2
 ---
 <section markdown="1"  class="organizers">
 

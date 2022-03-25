@@ -2,6 +2,7 @@
 layout: page
 permalink: /program/
 title: Program
+order: 3
 ---
 
 The workshop will be held in two half-day sessions on two separate days, November 1st and November 5th, 2021. The following is the final schedule.
