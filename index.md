@@ -12,7 +12,7 @@ While LQ may in principle be solved by classifying each data item in the sample 
 
 The goal of this workshop is to bring together all researchers interested in methods, algorithms, evaluation measures, evaluation protocols, and methodologies for LQ, as well as practitioners interested in the practical application of the above to managing large quantities of data.
 
-LeQua 2021 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers’ opinions do not necessarily reflect those of the European Commission.
+LQ 2021 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers’ opinions do not necessarily reflect those of the European Commission.
 
  <div style="vertical-align: middle">
     <img src="images/ai4media.png" alt="ai4media logo" style="padding-right:10px" width="400"/>
