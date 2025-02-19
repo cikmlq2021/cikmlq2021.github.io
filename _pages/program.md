@@ -151,7 +151,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">11:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">09:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">10:00</span></td>
-    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">Minimising quantifier variance under prior probability shift, by Dirk Tasche (Independent researcher, CH)</span></td>
+    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4"><a href="https://ceur-ws.org/Vol-3052/paper22.pdf">Minimising quantifier variance under prior probability shift</a>, by Dirk Tasche (Independent researcher, CH)</span></td>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:normal">00:00</span></td>
@@ -164,7 +164,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">11:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">10:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">10:30</span></td>
-    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">The Risks of Using Classification Datasets in Quantification Assessment, by Waqar Hassan (Universidade de São Paulo, BR), André Maletzke (Universidade do Oeste do Paraná, BR), and Gustavo Batista (University of New South Wales, AU)</span></td>
+    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4"><a href="https://ceur-ws.org/Vol-3052/paper23.pdf">The Risks of Using Classification Datasets in Quantification Assessment</a>, by Waqar Hassan (Universidade de São Paulo, BR), André Maletzke (Universidade do Oeste do Paraná, BR), and Gustavo Batista (University of New South Wales, AU)</span></td>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="font-weight:normal">00:30</span></td>
@@ -177,7 +177,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">12:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">10:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">11:00</span></td>
-    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">Histogram-based Deep Neural Network for Quantification, by Pablo González and Juan José del Coz (University of Oviedo, ES)</span></td>
+    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4"><a href="https://ceur-ws.org/Vol-3052/abstract2.pdf">Histogram-based Deep Neural Network for Quantification</a>, by Pablo González and Juan José del Coz (University of Oviedo, ES)</span></td>
   </tr>
   <tr>
     <td class="tg-cly1" colspan="12" rowspan="3"></td>
@@ -252,7 +252,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">09:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">07:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">08:00</span></td>
-    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">QuaPy: A Publicly Available Python-Based Software Library for Quantification, by Alejandro Moreo, Andrea Esuli, and Fabrizio Sebastiani (National Council of Research, IT)</span></td>
+    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4"><a href="https://ceur-ws.org/Vol-3052/abstract3.pdf">QuaPy: A Publicly Available Python-Based Software Library for Quantification</a>, by Alejandro Moreo, Andrea Esuli, and Fabrizio Sebastiani (National Council of Research, IT)</span></td>
     <td class="tg-za92" rowspan="2">&lt;-- Chair: Pablo Gonzalez</td>
   </tr>
   <tr>
@@ -266,7 +266,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">09:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">08:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">08:30</span></td>
-    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">LeQua @ CLEF 2022: A Shared Task for Evaluating Quantification Systems, by Andrea Esuli, Alejandro Moreo, and Fabrizio Sebastiani (National Council of Research, IT)</span></td>
+    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4"><a href="https://ceur-ws.org/Vol-3052/abstract4.pdf">LeQua @ CLEF 2022: A Shared Task for Evaluating Quantification Systems</a>, by Andrea Esuli, Alejandro Moreo, and Fabrizio Sebastiani (National Council of Research, IT)</span></td>
   </tr>
   <tr>
     <td class="tg-lqqp"><span style="font-weight:normal;background-color:#D0E0E3">22:30</span></td>
