@@ -137,7 +137,7 @@ The workshop will be held in two half-day sessions on two separate days, Novembe
     <td class="tg-nrix"><span style="font-weight:normal">10:30</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">09:00</span></td>
     <td class="tg-nrix"><span style="font-weight:normal">09:30</span></td>
-    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4">A Closer Look at Evaluation Measures for Ordinal Quantification, by Tetsuya Sakai (Waseda University, JP)</span></td>
+    <td class="tg-duty"><span style="font-weight:normal;background-color:#A4C2F4"><a href="https://ceur-ws.org/Vol-3052/paper21.pdf">A Closer Look at Evaluation Measures for Ordinal Quantification</a>, by Tetsuya Sakai (Waseda University, JP)</span></td>
     <td class="tg-za92" rowspan="4">&lt;-- Chair: Alejandro Moreo</td>
   </tr>
   <tr>
